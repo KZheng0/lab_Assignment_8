@@ -61,8 +61,8 @@ void mergeSort(int pData[], int l, int r)
 		{
 			if (L[i] <= R[j]) 
 			{
-					pData[k] = L[i];
-					i++;
+				pData[k] = L[i];
+				i++;
 			}
 			else 
 			{
